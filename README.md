@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shouq 👋</h1>
+<h1 align="center">Hi, I'm Shadan Abdullah 👋</h1>
 <p align="center">
 💻 <b>Full-Stack Developer</b> | 🛠 <b>Backend & Mobile Apps</b> | 🤖 <b>AI & Automation Enthusiast</b>
 </p>
